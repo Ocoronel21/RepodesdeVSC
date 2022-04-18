@@ -1,4 +1,9 @@
 h1 {
     background: red;
     color: white;
+    border: 1px solid blue;
+}
+p {
+    text-align: justify;
+    font-family: 'comic sans ms';
 }
